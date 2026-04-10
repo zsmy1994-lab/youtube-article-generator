@@ -123,4 +123,3 @@ npm run deploy
 ## 推荐测试视频
 
 - 演示视频：`https://www.youtube.com/watch?v=xRh2sVcNXQ8`
-- 当前首页样例：`https://www.youtube.com/watch?v=Ks-_Mh1QhMc`
