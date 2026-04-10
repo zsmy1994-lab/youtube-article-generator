@@ -1,0 +1,26 @@
+{
+  "name": "youtube-article-generator",
+  "version": "1.0.0",
+  "description": "YouTube 字幕转文章生成器 - Cloudflare Worker",
+  "type": "module",
+  "main": "src/server/app.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test"
+  },
+  "keywords": [
+    "cloudflare",
+    "worker",
+    "youtube",
+    "gemini"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^4.81.0"
+  },
+  "dependencies": {
+    "youtube-transcript": "^1.3.0"
+  }
+}

@@ -1,0 +1,8 @@
+name = "youtube-article-generator"
+main = "src/server/app.js"
+compatibility_date = "2025-09-01"
+
+[[kv_namespaces]]
+binding = "CACHE_KV"
+id = "ea1b11e7ea9b4aac8ff39043e00f1547"
+preview_id = "61c69f557c12413288d1b0f6512fece0"
